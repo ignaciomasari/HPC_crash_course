@@ -18,6 +18,18 @@
     <ClCompile Include="HPC_course.c">
       <Filter>File di origine</Filter>
     </ClCompile>
+    <ClCompile Include="HPC_course_collective.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="HPC_course_mpi.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="HPC_course_omp.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="HPC_course_hybrid.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lcgenerator.h">
